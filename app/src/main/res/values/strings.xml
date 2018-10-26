@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Book Search</string>
+
+    <string name="not_available">Not Available</string>
+
+    <string name="query_hint">Search Google Books</string>
+
+    <string name="how_to">Type a keyword or phrase to search. \nClick on each item to view more details.</string>
+
+    <string name="no_internet">No internet connection.</string>
+
+    <string name="no_books">No books found. \n\nTry searching with a new keyword or phrase. Click on each item to view more details.</string>
+
+    <string name="bad_response_code">There was a problem with the response from the server.</string>
+
+</resources>
